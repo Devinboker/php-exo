@@ -52,8 +52,8 @@
     <?php
 
 $etudiant = array(
-    'nom' => 'El ouraoui',
-    'prenom' => 'Nouhaila',
+    'nom' => 'mellouki',
+    'prenom' => 'taha',
     'matricule' => '20041104',
     'note' => 18,
 );
@@ -72,11 +72,11 @@ foreach($produit as $produit){
 }
 
 $etudiants = [
-    "El ouraoui" => 15,
+    "taha" => 15,
     "fatima" => 18,
     "yassine" => 12,
     "sara" => 17,
-    "taha" => 19
+    "sami" => 19
 ];
 
 
